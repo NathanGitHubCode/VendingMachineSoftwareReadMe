@@ -3,7 +3,8 @@
 Hi! 
 
 I've created a vending machine software using Java and utilizing techniques such as object-oriented programming (OOP).
-This project's source code is viewable upon request. 
+
+**This project's source code is viewable upon request.**
 
 ### Application use cases
 
